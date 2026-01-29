@@ -266,7 +266,7 @@ function App() {
               
               <div className="skill-category programming">
                 <div className="category-header">
-                  <span className="category-icon">☕</span>
+                  <span className="category-icon"></span>
                   <h3>Programming Languages</h3>
                 </div>
                 <div className="category-subheader">
@@ -296,7 +296,7 @@ function App() {
               <div className="soft-skills-grid">
                 <div className="soft-skill-item">
                   <span className="soft-skill-icon">🎯</span>
-                  <span className="soft-skill-name">Problem Solving</span>
+                  <span className="soft-skill-name">Consistency</span>
                 </div>
                 <div className="soft-skill-item">
                   <span className="soft-skill-icon">🤝</span>
